@@ -11,7 +11,7 @@
 
 <div align="right">
 
-[![views](https://komarev.com/ghpvc/?username=orhun&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/odigij)
+[![views](https://komarev.com/ghpvc/?username=odigij&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/odigij)
  &emsp;&ensp;
 [_odigij.com_](https://www.odigij.com/)
 
