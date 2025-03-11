@@ -5,10 +5,9 @@
 
 👾 I'm **Yiğit**.
 
-🛠️ An back-end developer with a deep passion for building implementing things from scratch.
+🛠️ A back-end developer with a deep passion for building implementing things from scratch.
 
 🖥️ Arch btw, lol.
-
 
 <div align="right">
 
