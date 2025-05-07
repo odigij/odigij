@@ -1,12 +1,6 @@
-I don't fake noise to be seen.
-
 Currently forging:
-- [**Simple Epoll Web Server (SEWS)**](https://github.com/odigij/simple-epoll-web-server-cpp): A modular, low-level server framework in modern C++.
 
-Tools I trust:
-- Linux (Arch)
-- Alacritty
-- Neovim
+- [**Simple Epoll Web Server (SEWS)**](https://github.com/odigij/simple-epoll-web-server-cpp): A modular, low-level server framework in modern C++.
 
 ---
 
